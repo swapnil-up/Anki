@@ -1,0 +1,24 @@
+# Generated deck packages
+dist/
+*.reproducible-v1.apkg
+*.anki-26.09.3.apkg
+
+# Python tooling
+.venv/
+.uv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Test and editor output
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Local configuration
+.env
+.env.*

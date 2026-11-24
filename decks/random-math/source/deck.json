@@ -1,0 +1,284 @@
+{
+  "schema_version": 1,
+  "name": "Random Math",
+  "deck": {
+    "id": 1724934138357,
+    "name": "Random Math",
+    "mod": 1724934923,
+    "usn": -1
+  },
+  "notetype": {
+    "id": 1636124027135,
+    "name": "Dynamic",
+    "kind": 0,
+    "sort_field": 0,
+    "mod": 1724934720,
+    "usn": -1,
+    "fields": [
+      {
+        "name": "Title",
+        "ord": 0,
+        "font": "Nimbus Sans [UKWN]",
+        "size": 20,
+        "sticky": true,
+        "rtl": false,
+        "description": "",
+        "plain_text": false,
+        "collapsed": false,
+        "exclude_from_search": false
+      },
+      {
+        "name": "Front",
+        "ord": 1,
+        "font": "Nimbus Sans [UKWN]",
+        "size": 20,
+        "sticky": true,
+        "rtl": false,
+        "description": "",
+        "plain_text": false,
+        "collapsed": false,
+        "exclude_from_search": false
+      },
+      {
+        "name": "Back",
+        "ord": 2,
+        "font": "Nimbus Sans [UKWN]",
+        "size": 20,
+        "sticky": true,
+        "rtl": false,
+        "description": "",
+        "plain_text": false,
+        "collapsed": false,
+        "exclude_from_search": false
+      },
+      {
+        "name": "Variables",
+        "ord": 3,
+        "font": "Nimbus Sans [UKWN]",
+        "size": 20,
+        "sticky": true,
+        "rtl": false,
+        "description": "",
+        "plain_text": false,
+        "collapsed": false,
+        "exclude_from_search": false
+      }
+    ],
+    "templates": [
+      {
+        "name": "Carte 1",
+        "ord": 0,
+        "front_file": "front.html",
+        "front_hash": "c6ba944b19ab47face23fa91cf808d451bfd339b6c172a7b26d7d13e88010260",
+        "back_file": "back.html",
+        "back_hash": "c952e95248c0546bec6b2eeb98d019e2d78ffd77ef59959944b3c3b6a36aee9c"
+      }
+    ],
+    "requirements": [
+      [
+        0,
+        "any",
+        [
+          1,
+          2,
+          3
+        ]
+      ]
+    ],
+    "css_file": "styling.css",
+    "css_hash": "ab5b6f5256a3f74e3f395817d602d681c3e52ffaa6432e6deb1485fcacaf57b7"
+  },
+  "notes": [
+    {
+      "id": 1724934681249,
+      "guid": "tTEDPXPU<!",
+      "mod": 1724934861,
+      "usn": -1,
+      "tags": [],
+      "raw_tags": "",
+      "fields": [
+        "Squaring Practise",
+        "Calculate the square of $num",
+        "${$num * $num}",
+        "<code>num = r(1, 100);</code>"
+      ],
+      "sort_field": "Squaring Practise",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1724934681249,
+          "did": 1724934138357,
+          "ord": 0,
+          "mod": 1724934681,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1501256,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1724934724359,
+      "guid": "m^j4_WZCEq",
+      "mod": 1724934876,
+      "usn": -1,
+      "tags": [],
+      "raw_tags": "",
+      "fields": [
+        "Squaring Practise 2",
+        "Calculate the square of $num",
+        "${$num * $num}",
+        "<code>num = r(1, 100);</code>"
+      ],
+      "sort_field": "Squaring Practise 2",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1724934724359,
+          "did": 1724934138357,
+          "ord": 0,
+          "mod": 1724934724,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1501257,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1724934727074,
+      "guid": "AxFE&]0,xE",
+      "mod": 1724934879,
+      "usn": -1,
+      "tags": [],
+      "raw_tags": "",
+      "fields": [
+        "Squaring Practise 3",
+        "Calculate the square of $num",
+        "${$num * $num}",
+        "<code>num = r(1, 100);</code>"
+      ],
+      "sort_field": "Squaring Practise 3",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1724934727074,
+          "did": 1724934138357,
+          "ord": 0,
+          "mod": 1724934727,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1501258,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1724934728716,
+      "guid": "RaVqu[%/sP",
+      "mod": 1724934884,
+      "usn": -1,
+      "tags": [],
+      "raw_tags": "",
+      "fields": [
+        "Squaring Practise 4",
+        "Calculate the square of $num",
+        "${$num * $num}",
+        "<code>num = r(1, 100);</code>"
+      ],
+      "sort_field": "Squaring Practise 4",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1724934728716,
+          "did": 1724934138357,
+          "ord": 0,
+          "mod": 1724934728,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1501259,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1724934730319,
+      "guid": "wku#pwFZ~&",
+      "mod": 1724934887,
+      "usn": -1,
+      "tags": [],
+      "raw_tags": "",
+      "fields": [
+        "Squaring Practise 5",
+        "Calculate the square of $num",
+        "${$num * $num}",
+        "<code>num = r(1, 100);</code>"
+      ],
+      "sort_field": "Squaring Practise 5",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1724934730319,
+          "did": 1724934138357,
+          "ord": 0,
+          "mod": 1724934730,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1501260,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    }
+  ],
+  "media": []
+}

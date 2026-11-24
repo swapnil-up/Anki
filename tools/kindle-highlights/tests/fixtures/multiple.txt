@@ -1,0 +1,7 @@
+Book A
+- Your Highlight on Page 1 | location 1 | Added on Date A
+First quote.
+
+Book B
+- Your Highlight on Page 2 | location 2 | Added on Date B
+Second quote.

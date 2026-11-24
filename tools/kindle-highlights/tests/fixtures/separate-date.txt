@@ -1,0 +1,4 @@
+The Second Book
+- Your Highlight on Page 4 | location 20
+Added on Tuesday, February 2, 2024 11:00:00 AM
+A highlight with separate metadata.

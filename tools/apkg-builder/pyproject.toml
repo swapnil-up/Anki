@@ -1,0 +1,9 @@
+[project]
+name = "anki-build"
+version = "1.0.0"
+description = "Deterministic source-driven Anki package tooling"
+requires-python = ">=3.12,<3.13"
+dependencies = []
+
+[tool.uv]
+package = false

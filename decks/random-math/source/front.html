@@ -1,0 +1,34 @@
+<div id="calc">
+  {{Variables}}
+</div>
+
+<div id="sub">
+  {{Front}}
+  <div id="back">
+  <br>
+  <hr id="answer">
+  <br>
+  {{Back}}
+  </div>
+</div>
+
+<div id="root">
+</div>
+
+<style>
+#back {
+  display: none;
+}
+</style>
+
+<script>
+
+generateRandoms();
+calculate();
+
+// Store for back side
+if (Persistence.isAvailable()) {
+  Persistence.setItem(document.getElementById("calc").textContent);
+}
+
+</script>

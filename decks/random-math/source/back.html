@@ -1,0 +1,26 @@
+<div id="calc">
+  {{Variables}}
+</div>
+
+<div id="sub">
+  {{Front}}
+  <div id="back">
+  <br>
+  <hr id="answer">
+  <br>
+  {{Back}}
+  </div>
+</div>
+
+<script>
+
+if (Persistence.isAvailable()) {
+  document.getElementById("calc").textContent = Persistence.getItem();
+} else {
+  generateRandoms();
+}
+
+calculate();
+
+
+</script>

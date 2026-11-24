@@ -1,0 +1,5288 @@
+{
+  "schema_version": 1,
+  "name": "nepal districts",
+  "deck": {
+    "id": 1722084061846,
+    "name": "nepal districts",
+    "mod": 1722084061,
+    "usn": -1
+  },
+  "notetype": {
+    "id": 1549158975686,
+    "name": "Basic (and reversed card)",
+    "kind": 0,
+    "sort_field": 0,
+    "mod": 1722086264,
+    "usn": -1,
+    "fields": [
+      {
+        "name": "Front",
+        "ord": 0,
+        "font": "Arial",
+        "size": 20,
+        "sticky": false,
+        "rtl": false,
+        "description": "",
+        "plain_text": false,
+        "collapsed": false,
+        "exclude_from_search": false
+      },
+      {
+        "name": "Back",
+        "ord": 1,
+        "font": "Arial",
+        "size": 20,
+        "sticky": true,
+        "rtl": false,
+        "description": "",
+        "plain_text": false,
+        "collapsed": false,
+        "exclude_from_search": false
+      }
+    ],
+    "templates": [
+      {
+        "name": "Card 1",
+        "ord": 0,
+        "front_file": "front.html",
+        "front_hash": "2da16123086b2bafafb003a8cb73e23c9c6c1f434a4ab7f2bdf7f0f23fdc45bb",
+        "back_file": "back.html",
+        "back_hash": "e7dad5eec6ebb148ecd13e23b5af6941a4e3a8de1ae51ec21b6226665a50df05"
+      },
+      {
+        "name": "Card 2",
+        "ord": 1,
+        "front_file": "front-reversed.html",
+        "front_hash": "2c3477e0ba2a9c9551fd61189310790b11c7c3e6b0976b01cd200fa7b0f5ace3",
+        "back_file": "back-reversed.html",
+        "back_hash": "6f098da4add67a083011b37af43a9134efc7255e46f4ba4c4955c4f2268347cb"
+      }
+    ],
+    "requirements": [
+      [
+        0,
+        "any",
+        [
+          0
+        ]
+      ],
+      [
+        1,
+        "any",
+        [
+          1
+        ]
+      ]
+    ],
+    "css_file": "styling.css",
+    "css_hash": "f2e3140495097c1920cdee1ea28df45e3eeb0286460e39fbabadc2674cdccef1"
+  },
+  "notes": [
+    {
+      "id": 1722086329551,
+      "guid": "C2--neUaPl",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::sudurpaschim",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::sudurpaschim nepal::map ",
+      "fields": [
+        "<img src=\"darchula.png\">",
+        "darchula<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " darchula.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722086329552,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722086329,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500602,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722086329553,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722086329,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500602,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722086695033,
+      "guid": "i6w]JYX>&j",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::sudurpaschim",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::sudurpaschim nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-df7bc3699b0609bf5968e371f57fef542bd2ac5b.png\">",
+        "baitadi<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-df7bc3699b0609bf5968e371f57fef542bd2ac5b.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722086695034,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722086695,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500603,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722086695035,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722086695,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500603,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722086715925,
+      "guid": "M]=P%YvPOa",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::sudurpaschim",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::sudurpaschim nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-c4f5ea9f907b69f95bafd43287dc65861c635dc5.png\">",
+        "dadeldhura<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-c4f5ea9f907b69f95bafd43287dc65861c635dc5.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722086715925,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722086715,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500604,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722086715926,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722086715,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500604,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722086735303,
+      "guid": "KG.a`kb/4[",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::sudurpaschim",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::sudurpaschim nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-a1ca6c26c50aa5cad46a8e52a48312164fe18ba6.png\">",
+        "kanchanpur<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-a1ca6c26c50aa5cad46a8e52a48312164fe18ba6.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722086735303,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722086735,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500605,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722086735304,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722086735,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500605,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722086752119,
+      "guid": "E(/q|#qOpm",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::sudurpaschim",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::sudurpaschim nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-ad70209125bfb53e87d9fb68fdfb6af93d81fb28.png\">",
+        "baijhang<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-ad70209125bfb53e87d9fb68fdfb6af93d81fb28.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722086752120,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722086752,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500606,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722086752121,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722086752,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500606,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722086794745,
+      "guid": "cWGVn!Mw8x",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::sudurpaschim",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::sudurpaschim nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-1ffa840e4b96f7622c4211e06d1947a7f93bbac1.png\">",
+        "doti<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-1ffa840e4b96f7622c4211e06d1947a7f93bbac1.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722086794746,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722086794,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500607,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722086794747,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722086794,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500607,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722086811886,
+      "guid": "kPsz~mf~>F",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::sudurpaschim",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::sudurpaschim nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-d7e5ceba8dc3dbf2b4c260fc4c605f0f71c61037.png\">",
+        "kailali<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-d7e5ceba8dc3dbf2b4c260fc4c605f0f71c61037.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722086811886,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722086811,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500608,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722086811887,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722086811,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500608,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722086825742,
+      "guid": "bFi&SR55jj",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::sudurpaschim",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::sudurpaschim nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-01b40ed66801b3937bc8f80dbd5db236ea0ace9e.png\">",
+        "bajura<br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-01b40ed66801b3937bc8f80dbd5db236ea0ace9e.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722086825743,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722086825,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500609,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722086825744,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722086825,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500609,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722086854417,
+      "guid": "o_H])7hZ@N",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::sudurpaschim",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::sudurpaschim nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-9405933e52f404968b9f1f40062ede64ceef4d16.png\">",
+        "achham&nbsp;<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-9405933e52f404968b9f1f40062ede64ceef4d16.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722086854418,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722086854,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500610,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722086854419,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722086854,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500610,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722086870559,
+      "guid": "n/T||ed~0t",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::karnali",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::karnali nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-016f4f43abc0a5edda2071f16609ec7475cc0744.png\">",
+        "humla&nbsp;<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-016f4f43abc0a5edda2071f16609ec7475cc0744.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722086870560,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722086870,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500611,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722086870561,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722086870,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500611,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722086884990,
+      "guid": "nkJhW>C+P)",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::karnali",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::karnali nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-8e592fb126c1a541e56883a4a5fdf29e055efd49.png\">",
+        "mugu&nbsp;<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-8e592fb126c1a541e56883a4a5fdf29e055efd49.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722086884991,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722086884,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500612,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722086884992,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722086884,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500612,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722086907958,
+      "guid": "L^rHXYt9K8",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::karnali",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::karnali nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-47c4c326fdacd5ef279f6cf58ac0e69b61a9e802.png\">",
+        "jumla<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-47c4c326fdacd5ef279f6cf58ac0e69b61a9e802.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722086907959,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722086907,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500613,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722086907960,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722086907,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500613,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722086918263,
+      "guid": "Bh<PYz{yS[",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::karnali",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::karnali nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-30f117a19891b3638a75e02fd3aa93350e5a20b0.png\">",
+        "dolpa<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-30f117a19891b3638a75e02fd3aa93350e5a20b0.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722086918263,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722086918,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500614,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722086918264,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722086918,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500614,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722086948941,
+      "guid": "rRs^LgIm|X",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::karnali",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::karnali nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-ec336d85c93ad9f205e09c2c61dc7d4a5240893d.png\">",
+        "kalikot<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-ec336d85c93ad9f205e09c2c61dc7d4a5240893d.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722086948942,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722086948,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500615,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722086948943,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722086948,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500615,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722086963427,
+      "guid": "kCA?^}U(aL",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::karnali",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::karnali nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-259cc30fb16bd9bf07fa98f6f86f3bbabeb4e80c.png\">",
+        "jajarkot<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-259cc30fb16bd9bf07fa98f6f86f3bbabeb4e80c.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722086963427,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722086963,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500616,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722086963428,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722086963,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500616,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722086972277,
+      "guid": "zc%NFDa=H(",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::karnali",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::karnali nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-1e5f3014bf486da8c94f0674e62db50270023cb3.png\">",
+        "surkhet<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-1e5f3014bf486da8c94f0674e62db50270023cb3.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722086972278,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722086972,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500617,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722086972279,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722086972,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500617,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722086982646,
+      "guid": "t|_.J_{w0X",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::karnali",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::karnali nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-c5d85035a9ddf9a23c46a4af0f250319413ecd4b.png\">",
+        "salyan<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-c5d85035a9ddf9a23c46a4af0f250319413ecd4b.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722086982646,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722086982,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500618,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722086982647,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722086982,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500618,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722086995974,
+      "guid": "G]/:!1:^q1",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::karnali",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::karnali nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-5ea6588e9852b6f2d86e7ff4576f4d8ed0838be5.png\">",
+        "rukum west<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-5ea6588e9852b6f2d86e7ff4576f4d8ed0838be5.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722086995975,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722086995,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500619,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722086995976,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722086995,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500619,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087007678,
+      "guid": "gFPg7}K=]0",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::lumbini",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::lumbini nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-ee923213dbb0083fffe8e471dd0fd7c218b6ab55.png\">",
+        "bardiya<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-ee923213dbb0083fffe8e471dd0fd7c218b6ab55.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087007678,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087007,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500620,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087007679,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087007,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500620,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087018820,
+      "guid": "H#^jPbJvyI",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::lumbini",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::lumbini nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-155976607c635af3b3277ffdd2fb0766fbf2eaf3.png\">",
+        "banke<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-155976607c635af3b3277ffdd2fb0766fbf2eaf3.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087018820,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087018,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500621,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087018821,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087018,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500621,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087041564,
+      "guid": "i}3Ke1$N}7",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::lumbini",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::lumbini nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-661fe36ddce30a82835347ca22ac5ce8a56fd97c.png\">",
+        "Rukum East<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-661fe36ddce30a82835347ca22ac5ce8a56fd97c.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087041564,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087041,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500622,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087041565,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087041,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500622,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087076577,
+      "guid": "iXyu&/Kzd&",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::lumbini",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::lumbini nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-c61511e2f4fd26de81c829b9046446af660d4eb5.png\">",
+        "Rolpa<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-c61511e2f4fd26de81c829b9046446af660d4eb5.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087076577,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087076,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500623,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087076578,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087076,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500623,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087090938,
+      "guid": "sEOGKj_7}H",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::lumbini",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::lumbini nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-7097025c40bf29cbd6ddbc4693aee6ef4ba8d4d2.png\">",
+        "pyuthan<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-7097025c40bf29cbd6ddbc4693aee6ef4ba8d4d2.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087090939,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087090,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500624,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087090940,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087090,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500624,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087110170,
+      "guid": "l:j&J)UX`,",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::lumbini",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::lumbini nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-d44f270b50a670d9714b8a07b94ba42e5a6a0fb2.png\">",
+        "dang<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-d44f270b50a670d9714b8a07b94ba42e5a6a0fb2.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087110170,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087110,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500625,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087110171,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087110,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500625,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087147717,
+      "guid": "FzJ?UMX!F,",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::lumbini",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::lumbini nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-b582b8c21d2f3fe4f5b9e2c447dde72f78f248f5.png\">",
+        "gulmi<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-b582b8c21d2f3fe4f5b9e2c447dde72f78f248f5.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087147717,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087147,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500626,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087147718,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087147,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500626,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087172330,
+      "guid": "ta:RS9YcM$",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::lumbini",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::lumbini nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-ac41dae5eb202a17945fc67041f457fab09c30b1.png\">",
+        "arghakhanchi<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-ac41dae5eb202a17945fc67041f457fab09c30b1.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087172330,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087172,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500627,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087172331,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087172,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500627,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087185448,
+      "guid": "PJ-)p[OLy8",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::lumbini",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::lumbini nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-a11fe9709a9a3152e145622c245d74638928a019.png\">",
+        "kapilvastu<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-a11fe9709a9a3152e145622c245d74638928a019.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087185448,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087185,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500628,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087185449,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087185,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500628,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087200264,
+      "guid": "uPc}-tSWG|",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::lumbini",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::lumbini nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-005bce09971737b49f280ca16b3e52b2891efe8c.png\">",
+        "rupandehi<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-005bce09971737b49f280ca16b3e52b2891efe8c.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087200264,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087200,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500629,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087200265,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087200,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500629,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087218239,
+      "guid": "wF+IrHa))Y",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::lumbini",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::lumbini nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-0f3895e683794faeaab65b48f44b24b131bb34db.png\">",
+        "palpa<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-0f3895e683794faeaab65b48f44b24b131bb34db.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087218239,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087218,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500630,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087218240,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087218,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500630,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087243653,
+      "guid": "b~)3DG]!4,",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::lumbini",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::lumbini nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-486d92249e282010230b574ab1cba6c6ae82fd51.png\">",
+        "nawalparasi west<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-486d92249e282010230b574ab1cba6c6ae82fd51.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087243653,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087243,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500631,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087243654,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087243,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500631,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087262173,
+      "guid": "L&m&Vz}re<",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::gandaki",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::gandaki nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-9c5ae8898cada1af89bd713281bdde457b431a3f.png\">",
+        "baglung<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-9c5ae8898cada1af89bd713281bdde457b431a3f.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087262174,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087262,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500632,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087262175,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087262,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500632,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087273255,
+      "guid": "GY[7Yn7IDy",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::gandaki",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::gandaki nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-c01a89df187dc0214b9e4c02373845ab851297a1.png\">",
+        "myagdi<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-c01a89df187dc0214b9e4c02373845ab851297a1.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087273255,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087273,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500633,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087273256,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087273,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500633,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087282538,
+      "guid": "Mu11)JUaD}",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::gandaki",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::gandaki nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-27265447f201b81fc65c5c7a218b459c34871ecb.png\">",
+        "mustang<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-27265447f201b81fc65c5c7a218b459c34871ecb.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087282538,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087282,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500634,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087282539,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087282,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500634,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087295850,
+      "guid": "fpAY,KM^R-",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::gandaki",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::gandaki nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-1a648b686ec05466d2796b951c5a52ec1939560a.png\">",
+        "parbat<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-1a648b686ec05466d2796b951c5a52ec1939560a.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087295850,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087295,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500635,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087295851,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087295,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500635,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087304213,
+      "guid": "NlHoG*wBYA",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::gandaki",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::gandaki nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-deabb7ed6b635ebc711a27bab9b19e65c9ab2de0.png\">",
+        "manang<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-deabb7ed6b635ebc711a27bab9b19e65c9ab2de0.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087304213,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087304,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500636,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087304214,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087304,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500636,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087311850,
+      "guid": "eXOg?hb#Qw",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::gandaki",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::gandaki nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-0b7a98373c695624b2353fc81b9f672f57136b2f.png\">",
+        "kaski<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-0b7a98373c695624b2353fc81b9f672f57136b2f.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087311850,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087311,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500637,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087311851,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087311,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500637,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087322169,
+      "guid": "Pvd?oeQ@7O",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::gandaki",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::gandaki nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-983d211e163bb313ea500ec49100628d5ee9411a.png\">",
+        "syangja<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-983d211e163bb313ea500ec49100628d5ee9411a.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087322169,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087322,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500638,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087322170,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087322,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500638,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087332187,
+      "guid": "NAmI7},Pr6",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::gandaki",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::gandaki nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-aee4275c9f12e5c998d59028b65bba310a277bf3.png\">",
+        "lamjung<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-aee4275c9f12e5c998d59028b65bba310a277bf3.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087332187,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087332,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500639,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087332188,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087332,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500639,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087341632,
+      "guid": "INk=qQ:*5&",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::gandaki",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::gandaki nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-f6c29d78ab0659239df200716db9494062a8c280.png\">",
+        "tanahu<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-f6c29d78ab0659239df200716db9494062a8c280.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087341633,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087341,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500640,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087341634,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087341,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500640,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087362166,
+      "guid": "zH@npuzT=>",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::gandaki",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::gandaki nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-ece6f3d8b3144445625f7cba3a8e870c01fa1062.png\">",
+        "nawalparasi east<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-ece6f3d8b3144445625f7cba3a8e870c01fa1062.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087362166,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087362,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500641,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087362167,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087362,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500641,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087370467,
+      "guid": "K]=~IqO-wv",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::gandaki",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::gandaki nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-987927521755bee8f6a3cfd10cd6f6c30e69a013.png\">",
+        "gorkha<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-987927521755bee8f6a3cfd10cd6f6c30e69a013.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087370467,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087370,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500642,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087370468,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087370,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500642,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087389528,
+      "guid": "d[okP%z,m[",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::bagmati",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::bagmati nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-febb5da56e6aa29cd142044e294c379ded340bc9.png\">",
+        "dhading<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-febb5da56e6aa29cd142044e294c379ded340bc9.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087389529,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087389,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500643,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087389530,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087389,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500643,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087398853,
+      "guid": "PD1LuOe9q`",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::bagmati",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::bagmati nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-22ac2ffb4dcc3bd91addfd4626ee140b73f5e518.png\">",
+        "rasuwa<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-22ac2ffb4dcc3bd91addfd4626ee140b73f5e518.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087398853,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087398,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500644,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087398854,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087398,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500644,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087410829,
+      "guid": "P7h%T:?2T-",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::bagmati",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::bagmati nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-32837cefe4c3e8def97e3f48f9327e0c04b47ecf.png\">",
+        "nuwakot<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-32837cefe4c3e8def97e3f48f9327e0c04b47ecf.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087410829,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087410,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500645,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087410830,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087410,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500645,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087429612,
+      "guid": "M)O30-Qu@u",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::bagmati",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::bagmati nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-5e549902741c4f465524805f3ae6df89739f80a6.png\">",
+        "sindhupalchowk<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-5e549902741c4f465524805f3ae6df89739f80a6.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087429612,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087429,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500646,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087429613,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087429,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500646,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087462018,
+      "guid": "eeGFumo1h7",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::bagmati",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::bagmati nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-e2dca43d508f9bbe1b6cd40062fca84552bed087.png\">",
+        "dolakha<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-e2dca43d508f9bbe1b6cd40062fca84552bed087.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087462018,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087462,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500647,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087462019,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087462,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500647,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087475767,
+      "guid": "w>}u4^y2zI",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::bagmati",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::bagmati nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-97a69a17a8af3cfbf8ff650539c40f017b136709.png\">",
+        "ramechhap<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-97a69a17a8af3cfbf8ff650539c40f017b136709.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087475767,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087475,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500648,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087475768,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087475,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500648,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087486504,
+      "guid": "Fq%^bZZv4&",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::bagmati",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::bagmati nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-38adb8264c74317aa65e1706d164714839ce2645.png\">",
+        "sindhuli<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-38adb8264c74317aa65e1706d164714839ce2645.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087486504,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087486,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500649,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087486505,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087486,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500649,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087496440,
+      "guid": "b(t:l?Nmxx",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::bagmati",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::bagmati nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-dee25967f0adecfda4f22e19ac1f240aa90f8c4e.png\">",
+        "makwanpur<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-dee25967f0adecfda4f22e19ac1f240aa90f8c4e.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087496441,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087496,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500650,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087496442,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087496,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500650,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087507854,
+      "guid": "Oy7[p%H_}Q",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::bagmati",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::bagmati nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-466f0a9a23200e35a6a3cd631636cb7addc13429.png\">",
+        "chitwan<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-466f0a9a23200e35a6a3cd631636cb7addc13429.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087507854,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087507,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500651,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087507855,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087507,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500651,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087706273,
+      "guid": "DB^Mr74f_r",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::bagmati",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::bagmati nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-a3569c8b0a1286e64497a7459317ec9333088c89.png\">",
+        "kathmandu<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-a3569c8b0a1286e64497a7459317ec9333088c89.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087706274,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087706,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500652,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087706275,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087706,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500652,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087720809,
+      "guid": "b8)d5Gn|l,",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::bagmati",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::bagmati nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-0c3cf3fb5c0bc56a1928c09b6dfda12407ea2830.png\">",
+        "bhaktapur<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-0c3cf3fb5c0bc56a1928c09b6dfda12407ea2830.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087720809,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087720,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500653,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087720810,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087720,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500653,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087732975,
+      "guid": "G1hE6#Vnv[",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::bagmati",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::bagmati nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-4de7033612959fadee4efa4f2cfb8f0efe5cd0c6.png\">",
+        "lalitpur<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-4de7033612959fadee4efa4f2cfb8f0efe5cd0c6.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087732975,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087732,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500654,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087732976,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087732,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500654,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087744638,
+      "guid": "N(j1;N7DVv",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::bagmati",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::bagmati nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-312990d614ebcc15ff1e46a912823b761e4d8f2f.png\">",
+        "kavrepalanchok<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-312990d614ebcc15ff1e46a912823b761e4d8f2f.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087744638,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087744,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500655,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087744639,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087744,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500655,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087770818,
+      "guid": "ha.T2!H*XA",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::madhesh",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::madhesh nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-da22c4996fbd1f23ce362667405b32f9caaaeb93.png\">",
+        "parsa<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-da22c4996fbd1f23ce362667405b32f9caaaeb93.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087770818,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087770,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500656,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087770819,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087770,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500656,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087791309,
+      "guid": "pf,Fa}{2Zg",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::madhesh",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::madhesh nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-ffebdcc04a5dc84248f3f75b4e3ff6eeed157d33.png\">",
+        "bara<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-ffebdcc04a5dc84248f3f75b4e3ff6eeed157d33.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087791309,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087791,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500657,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087791310,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087791,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500657,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087837705,
+      "guid": "J}M;MfPt)-",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::madhesh",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::madhesh nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-de11598f3be29abfd213af48f1d4f6676787adf2.png\">",
+        "rautahat<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-de11598f3be29abfd213af48f1d4f6676787adf2.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087837705,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087837,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500658,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087837706,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087837,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500658,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087846398,
+      "guid": "q`7rCU1@nK",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::madhesh",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::madhesh nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-b1dc8db1ff11024d8f523094678af9eaaa68d0d6.png\">",
+        "sarlahi<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-b1dc8db1ff11024d8f523094678af9eaaa68d0d6.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087846398,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087846,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500659,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087846399,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087846,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500659,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087862474,
+      "guid": "J9&Nl?>?!F",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::madhesh",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::madhesh nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-6f1eb00fff5aedb21d79ccc0f905a3ef2557a513.png\">",
+        "mahottari<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-6f1eb00fff5aedb21d79ccc0f905a3ef2557a513.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087862474,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087862,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500660,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087862475,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087862,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500660,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087874361,
+      "guid": "Px<=b;o6o8",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::madhesh",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::madhesh nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-94761b2d12b6e34484a4dd1f6a83e5792f041053.png\">",
+        "dhanusha<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-94761b2d12b6e34484a4dd1f6a83e5792f041053.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087874361,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087874,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500661,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087874362,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087874,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500661,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087883920,
+      "guid": "M`cbfz7Uz,",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::madhesh",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::madhesh nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-0190130886b6a35a795f9cc4eb455235a35aa7d3.png\">",
+        "siraha<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-0190130886b6a35a795f9cc4eb455235a35aa7d3.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087883920,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087883,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500662,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087883921,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087883,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500662,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087893391,
+      "guid": "HoTq,?5VcR",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::madhesh",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::madhesh nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-32e1f70e1ead4d8ecec3170afcf8abe33ffe4f3d.png\">",
+        "saptari<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-32e1f70e1ead4d8ecec3170afcf8abe33ffe4f3d.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087893391,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087893,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500663,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087893392,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087893,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500663,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087908832,
+      "guid": "n(:5i}7),#",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::koshi",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::koshi nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-31877db4beade4d679bd91caef3b80c9ed26235e.png\">",
+        "okhaldhunga<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-31877db4beade4d679bd91caef3b80c9ed26235e.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087908832,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087908,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500664,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087908833,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087908,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500664,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087919897,
+      "guid": "B!kM|x74ET",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::koshi",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::koshi nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-bf196455b022c14e081a7d7b904d64859508f4f0.png\">",
+        "solukhumbu<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-bf196455b022c14e081a7d7b904d64859508f4f0.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087919897,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087919,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500665,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087919898,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087919,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500665,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087966157,
+      "guid": "dhvYd,n;Px",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::koshi",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::koshi nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-e208d7c26f6d96ed46ae337da75c192a119ed16a.png\">",
+        "udayapur<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-e208d7c26f6d96ed46ae337da75c192a119ed16a.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087966157,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087966,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500666,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087966158,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087966,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500666,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087978228,
+      "guid": "r<b2,2mcA9",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::koshi",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::koshi nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-29acfff19b26a9a1b37d84f50f511f21f4f81860.png\">",
+        "khotang<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-29acfff19b26a9a1b37d84f50f511f21f4f81860.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087978228,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087978,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500667,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087978229,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087978,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500667,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087989610,
+      "guid": "po{YtYB2I6",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::koshi",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::koshi nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-117b6946d8ae1b59606adcf8a8ea792e3f518d30.png\">",
+        "sankhuwasabha<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-117b6946d8ae1b59606adcf8a8ea792e3f518d30.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087989610,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087989,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500668,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087989611,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087989,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500668,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722087996536,
+      "guid": "LLe#SOYA@m",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::koshi",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::koshi nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-1fb0774254b89e8a1e7ab23d3d145b9ad543c257.png\">",
+        "bhojpur<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-1fb0774254b89e8a1e7ab23d3d145b9ad543c257.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722087996537,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722087996,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500669,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722087996538,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722087996,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500669,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722088035256,
+      "guid": "A~ZM-7X3~]",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::koshi",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::koshi nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-8cfbbea6279cc32fadb7578afdb71931eb509cc5.png\">",
+        "dhankuta<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-8cfbbea6279cc32fadb7578afdb71931eb509cc5.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722088035256,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722088035,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500670,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722088035257,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722088035,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500670,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722088043471,
+      "guid": "ia!LAhy6=]",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::koshi",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::koshi nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-ec939e1d67036ac38ebc4f0b5fcf7f4d65a7da0a.png\">",
+        "sunsari<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-ec939e1d67036ac38ebc4f0b5fcf7f4d65a7da0a.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722088043471,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722088043,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500671,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722088043472,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722088043,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500671,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722088054599,
+      "guid": "PAclz/4`+I",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::koshi",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::koshi nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-4fa6528346d4177dbe45c85b060aab0de936b45d.png\">",
+        "morang<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-4fa6528346d4177dbe45c85b060aab0de936b45d.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722088054599,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722088054,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500672,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722088054600,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722088054,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500672,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722088068736,
+      "guid": "Ibh*=OCezO",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::koshi",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::koshi nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-f1d739aad0d0fd612dd746497d9f3c22169169d0.png\">",
+        "terhathum<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-f1d739aad0d0fd612dd746497d9f3c22169169d0.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722088068736,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722088068,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500673,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722088068737,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722088068,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500673,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722088079237,
+      "guid": "Nx7a(+ygo?",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::koshi",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::koshi nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-db72719e173d61b6425151a15aba7bcaa83d4a70.png\">",
+        "taplejung<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-db72719e173d61b6425151a15aba7bcaa83d4a70.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722088079237,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722088079,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500674,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722088079238,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722088079,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500674,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722088141930,
+      "guid": "j{jiYeI2S?",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::koshi",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::koshi nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-a21f54648a93d705af0fed445dc2aa88d7b45341.png\">",
+        "panchthar<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-a21f54648a93d705af0fed445dc2aa88d7b45341.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722088141931,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722088141,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500675,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722088141932,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722088141,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500675,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722088150949,
+      "guid": "HovIo{:!XY",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::koshi",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::koshi nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-3e805577eb15966d5cb99e15de54b23d74fb08e8.png\">",
+        "illam<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-3e805577eb15966d5cb99e15de54b23d74fb08e8.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722088150949,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722088150,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500676,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722088150950,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722088150,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500676,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722088162896,
+      "guid": "fDdUB$`Iu5",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::koshi",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::koshi nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-b6101e7cdea2e6f9099c330081edf32b1a337a96.png\">",
+        "jhapa<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-b6101e7cdea2e6f9099c330081edf32b1a337a96.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722088162896,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722088162,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500677,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722088162897,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722088162,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500677,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    },
+    {
+      "id": 1722088415733,
+      "guid": "p>M0[|.w]y",
+      "mod": 1722088761,
+      "usn": -1,
+      "tags": [
+        "districts::karnali",
+        "nepal::map"
+      ],
+      "raw_tags": " districts::karnali nepal::map ",
+      "fields": [
+        "<img src=\"New_Map_of_Nepal_District_and_Province.svg-5563d55795cf2260fe6ec3afcbb0f77d15573a34.png\">",
+        "dailekh<br><br><img src=\"New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png\">"
+      ],
+      "sort_field": " New_Map_of_Nepal_District_and_Province.svg-5563d55795cf2260fe6ec3afcbb0f77d15573a34.png ",
+      "flags": 0,
+      "data": "",
+      "cards": [
+        {
+          "id": 1722088415734,
+          "did": 1722084061846,
+          "ord": 0,
+          "mod": 1722088415,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500678,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        },
+        {
+          "id": 1722088415735,
+          "did": 1722084061846,
+          "ord": 1,
+          "mod": 1722088415,
+          "usn": -1,
+          "type": 0,
+          "queue": 0,
+          "due": 1441500678,
+          "ivl": 0,
+          "factor": 0,
+          "reps": 0,
+          "lapses": 0,
+          "left": 0,
+          "odue": 0,
+          "odid": 0,
+          "flags": 0,
+          "data": "{}"
+        }
+      ]
+    }
+  ],
+  "media": [
+    {
+      "index": 0,
+      "name": "darchula.png",
+      "file": "media/darchula.png",
+      "size": 144520,
+      "sha1": "7bca6fd6580c1028df68317e75dc87c2da48ed19",
+      "sha256": "bc18591718edbc6ef4dcfd5c9342c5cc13ac2858e3fed8d1c66e43ada9a1cfb2",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 1,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-155976607c635af3b3277ffdd2fb0766fbf2eaf3.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-155976607c635af3b3277ffdd2fb0766fbf2eaf3.png",
+      "size": 144416,
+      "sha1": "155976607c635af3b3277ffdd2fb0766fbf2eaf3",
+      "sha256": "3a381585a951de0152a65fedecb5f23997a4d030a9137729a6901ac66a12d59c",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 2,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-661fe36ddce30a82835347ca22ac5ce8a56fd97c.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-661fe36ddce30a82835347ca22ac5ce8a56fd97c.png",
+      "size": 144554,
+      "sha1": "661fe36ddce30a82835347ca22ac5ce8a56fd97c",
+      "sha256": "72b43b523281943cedc9b21c2b0116c2d24ebebd7febfb6bbe757af64dcad70c",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 3,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-bf196455b022c14e081a7d7b904d64859508f4f0.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-bf196455b022c14e081a7d7b904d64859508f4f0.png",
+      "size": 144635,
+      "sha1": "bf196455b022c14e081a7d7b904d64859508f4f0",
+      "sha256": "1c238430487fa72d97e0240f4e8b5c1d19ad47eb1d1acf4219d589fe6b8d6537",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 4,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-ec939e1d67036ac38ebc4f0b5fcf7f4d65a7da0a.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-ec939e1d67036ac38ebc4f0b5fcf7f4d65a7da0a.png",
+      "size": 144604,
+      "sha1": "ec939e1d67036ac38ebc4f0b5fcf7f4d65a7da0a",
+      "sha256": "cd4d7e47ec315864fc110a5850ce51ede7e0d75b882d335e6b9e9f9bf424470f",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 5,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-da22c4996fbd1f23ce362667405b32f9caaaeb93.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-da22c4996fbd1f23ce362667405b32f9caaaeb93.png",
+      "size": 144549,
+      "sha1": "da22c4996fbd1f23ce362667405b32f9caaaeb93",
+      "sha256": "7d9bb5939069d39fcd6463f5ec623967d23c2c53da14824638d26de13a94c043",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 6,
+      "name": "_ch-hljs-solarized.css",
+      "file": "media/_ch-hljs-solarized.css",
+      "size": 10249,
+      "sha1": "ff7e0fd029faa85c541faf754a22e3a08eaa94af",
+      "sha256": "1e370169579ef08707e324e63a4b8ca4e9406956f82b8c7b5e3627e4606d6e7c",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 7,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-a11fe9709a9a3152e145622c245d74638928a019.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-a11fe9709a9a3152e145622c245d74638928a019.png",
+      "size": 144572,
+      "sha1": "a11fe9709a9a3152e145622c245d74638928a019",
+      "sha256": "8556b79a15a32fd57270863e0c57797c446448bd39a3538cce4387d4ae214b64",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 8,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-ece6f3d8b3144445625f7cba3a8e870c01fa1062.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-ece6f3d8b3144445625f7cba3a8e870c01fa1062.png",
+      "size": 144553,
+      "sha1": "ece6f3d8b3144445625f7cba3a8e870c01fa1062",
+      "sha256": "034f398143d2fbef4230dd72556255436988a83aaf8f9430227df3686efb6174",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 9,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-217836a6d0e9e371fbedddf06431f980a43f2e3f.png",
+      "size": 144557,
+      "sha1": "217836a6d0e9e371fbedddf06431f980a43f2e3f",
+      "sha256": "4b09ec8a4d9d4f7eb351058c6538ac4f23adda8b456f8ac782e8533f676c281e",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 10,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-5ea6588e9852b6f2d86e7ff4576f4d8ed0838be5.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-5ea6588e9852b6f2d86e7ff4576f4d8ed0838be5.png",
+      "size": 144602,
+      "sha1": "5ea6588e9852b6f2d86e7ff4576f4d8ed0838be5",
+      "sha256": "f0d0bffc6f046e8d8a7e3f89399016c46fc38b9052f58e44ab6fa9521b754067",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 11,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-a21f54648a93d705af0fed445dc2aa88d7b45341.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-a21f54648a93d705af0fed445dc2aa88d7b45341.png",
+      "size": 144546,
+      "sha1": "a21f54648a93d705af0fed445dc2aa88d7b45341",
+      "sha256": "48d917e23cf8027e463832314fabfd0241d74d16f41e5cacd89e20649c032489",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 12,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-a1ca6c26c50aa5cad46a8e52a48312164fe18ba6.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-a1ca6c26c50aa5cad46a8e52a48312164fe18ba6.png",
+      "size": 144557,
+      "sha1": "a1ca6c26c50aa5cad46a8e52a48312164fe18ba6",
+      "sha256": "7a1d9637243ea99fbffdeaff1d6d96502290044f689adc12da7d95afe0bc6d48",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 13,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-de11598f3be29abfd213af48f1d4f6676787adf2.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-de11598f3be29abfd213af48f1d4f6676787adf2.png",
+      "size": 144585,
+      "sha1": "de11598f3be29abfd213af48f1d4f6676787adf2",
+      "sha256": "309eed30b8f3153a5d6c0b95701cd25bdcd0ffa278194caf4feed6a520b7cbe9",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 14,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-8e592fb126c1a541e56883a4a5fdf29e055efd49.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-8e592fb126c1a541e56883a4a5fdf29e055efd49.png",
+      "size": 144579,
+      "sha1": "8e592fb126c1a541e56883a4a5fdf29e055efd49",
+      "sha256": "ff75faaab9dbb02af10e3e09905d8da3bdb423e8c04ce0be8b7efbaa706034eb",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 15,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-c4f5ea9f907b69f95bafd43287dc65861c635dc5.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-c4f5ea9f907b69f95bafd43287dc65861c635dc5.png",
+      "size": 144585,
+      "sha1": "c4f5ea9f907b69f95bafd43287dc65861c635dc5",
+      "sha256": "a88ad5b29ac587e328755a97e1007efa7cf33fee67f3fc5dcb8eb2086d40b177",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 16,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-ec336d85c93ad9f205e09c2c61dc7d4a5240893d.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-ec336d85c93ad9f205e09c2c61dc7d4a5240893d.png",
+      "size": 144564,
+      "sha1": "ec336d85c93ad9f205e09c2c61dc7d4a5240893d",
+      "sha256": "44ca554e82c40a1912896cf84af1a91a7409bbdf3326bcb9ccef0afde90460fd",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 17,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-e208d7c26f6d96ed46ae337da75c192a119ed16a.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-e208d7c26f6d96ed46ae337da75c192a119ed16a.png",
+      "size": 144601,
+      "sha1": "e208d7c26f6d96ed46ae337da75c192a119ed16a",
+      "sha256": "edf823fdf655e5cf40c72a3fed9a1116e12c32a17eb9335c5acda02842bd98bf",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 18,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-c01a89df187dc0214b9e4c02373845ab851297a1.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-c01a89df187dc0214b9e4c02373845ab851297a1.png",
+      "size": 144555,
+      "sha1": "c01a89df187dc0214b9e4c02373845ab851297a1",
+      "sha256": "5b5c2feb8269d29e3a4504565b7b88a79e52eeef5cdf320124786faa1c382d78",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 19,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-259cc30fb16bd9bf07fa98f6f86f3bbabeb4e80c.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-259cc30fb16bd9bf07fa98f6f86f3bbabeb4e80c.png",
+      "size": 144633,
+      "sha1": "259cc30fb16bd9bf07fa98f6f86f3bbabeb4e80c",
+      "sha256": "709f6d9ffcb357a9aa8d3142b47bb178a715c0e178c5b55a4bba1654f23b0ba1",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 20,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-febb5da56e6aa29cd142044e294c379ded340bc9.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-febb5da56e6aa29cd142044e294c379ded340bc9.png",
+      "size": 144568,
+      "sha1": "febb5da56e6aa29cd142044e294c379ded340bc9",
+      "sha256": "f78bfaf2d2ad74b974fd0910877c2562d7edd24513418f29d67a79ca45eb26be",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 21,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-b6101e7cdea2e6f9099c330081edf32b1a337a96.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-b6101e7cdea2e6f9099c330081edf32b1a337a96.png",
+      "size": 144616,
+      "sha1": "b6101e7cdea2e6f9099c330081edf32b1a337a96",
+      "sha256": "c4269f57ef9b6913fb5eb961d565c2b1a02e6dd4209a4e93ecf8e8ebff1bb1a2",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 22,
+      "name": "_ch-my-highlight.js",
+      "file": "media/_ch-my-highlight.js",
+      "size": 21,
+      "sha1": "dfe8857d26dc0136707c3ef84b989a28dd770ab6",
+      "sha256": "239219aa70cd2b8765c57347d0b02e3faaf9d38267ee1bbd3392e193abcec502",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 23,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-d7e5ceba8dc3dbf2b4c260fc4c605f0f71c61037.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-d7e5ceba8dc3dbf2b4c260fc4c605f0f71c61037.png",
+      "size": 144579,
+      "sha1": "d7e5ceba8dc3dbf2b4c260fc4c605f0f71c61037",
+      "sha256": "524a0885d1f22c27169473de306e3ffbde2c3ae48b69de2da273cee7e8debc3f",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 24,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-97a69a17a8af3cfbf8ff650539c40f017b136709.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-97a69a17a8af3cfbf8ff650539c40f017b136709.png",
+      "size": 144582,
+      "sha1": "97a69a17a8af3cfbf8ff650539c40f017b136709",
+      "sha256": "62541951205103a2152c270923b161ecbf134f45df7a52d3cba81388ba720004",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 25,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-c61511e2f4fd26de81c829b9046446af660d4eb5.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-c61511e2f4fd26de81c829b9046446af660d4eb5.png",
+      "size": 144476,
+      "sha1": "c61511e2f4fd26de81c829b9046446af660d4eb5",
+      "sha256": "b76a3ec83752fa13901fb564c13df0a66265e80fae46c5beb6c7624b771063ca",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 26,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-8cfbbea6279cc32fadb7578afdb71931eb509cc5.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-8cfbbea6279cc32fadb7578afdb71931eb509cc5.png",
+      "size": 144607,
+      "sha1": "8cfbbea6279cc32fadb7578afdb71931eb509cc5",
+      "sha256": "21284a98443dca65861bad0dbb26d56dc633ca61224e20ed3511ec33be5a8c58",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 27,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-0c3cf3fb5c0bc56a1928c09b6dfda12407ea2830.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-0c3cf3fb5c0bc56a1928c09b6dfda12407ea2830.png",
+      "size": 144573,
+      "sha1": "0c3cf3fb5c0bc56a1928c09b6dfda12407ea2830",
+      "sha256": "06a745f5a0beeb0d402fd1e9b6c008f1dba7976ae088993b748300c3cd1b6113",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 28,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-ee923213dbb0083fffe8e471dd0fd7c218b6ab55.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-ee923213dbb0083fffe8e471dd0fd7c218b6ab55.png",
+      "size": 144459,
+      "sha1": "ee923213dbb0083fffe8e471dd0fd7c218b6ab55",
+      "sha256": "e35172f11ad1fa85c7b595472bb0f7ee1f1a99f4cf254d5e63709f2caa608079",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 29,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-9c5ae8898cada1af89bd713281bdde457b431a3f.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-9c5ae8898cada1af89bd713281bdde457b431a3f.png",
+      "size": 144485,
+      "sha1": "9c5ae8898cada1af89bd713281bdde457b431a3f",
+      "sha256": "eef984a535ec837246881bc32acd708efd8197d5b9d271241c38a173962e8b0c",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 30,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-22ac2ffb4dcc3bd91addfd4626ee140b73f5e518.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-22ac2ffb4dcc3bd91addfd4626ee140b73f5e518.png",
+      "size": 144515,
+      "sha1": "22ac2ffb4dcc3bd91addfd4626ee140b73f5e518",
+      "sha256": "cc2f251bd3cab35d5c8c19e2505095658c915e6779a86bb83c77463d8177a116",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 31,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-486d92249e282010230b574ab1cba6c6ae82fd51.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-486d92249e282010230b574ab1cba6c6ae82fd51.png",
+      "size": 144578,
+      "sha1": "486d92249e282010230b574ab1cba6c6ae82fd51",
+      "sha256": "b701184253be75f1316c3625df14e71d720b981c073b5075cda7343d1ba57a22",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 32,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-1fb0774254b89e8a1e7ab23d3d145b9ad543c257.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-1fb0774254b89e8a1e7ab23d3d145b9ad543c257.png",
+      "size": 144577,
+      "sha1": "1fb0774254b89e8a1e7ab23d3d145b9ad543c257",
+      "sha256": "2d262da0d817b0a0c4055d64ce98b71dcb04b8d96fa2c419d5fa6074add6dcb7",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 33,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-a3569c8b0a1286e64497a7459317ec9333088c89.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-a3569c8b0a1286e64497a7459317ec9333088c89.png",
+      "size": 144571,
+      "sha1": "a3569c8b0a1286e64497a7459317ec9333088c89",
+      "sha256": "4c6d74858cfe1f5f4263f943913e53f0c2f45eb1b8a8f701391e8b57852cdc6e",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 34,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-db72719e173d61b6425151a15aba7bcaa83d4a70.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-db72719e173d61b6425151a15aba7bcaa83d4a70.png",
+      "size": 144600,
+      "sha1": "db72719e173d61b6425151a15aba7bcaa83d4a70",
+      "sha256": "7236e66d129675a88732efcc26ea456a5d9016d43406c6d5310de6ce992754dd",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 35,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-005bce09971737b49f280ca16b3e52b2891efe8c.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-005bce09971737b49f280ca16b3e52b2891efe8c.png",
+      "size": 144607,
+      "sha1": "005bce09971737b49f280ca16b3e52b2891efe8c",
+      "sha256": "523880c82a957d052f4c4452bf924d5a1a1a6c98662943794353226c6d082cd0",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 36,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-0190130886b6a35a795f9cc4eb455235a35aa7d3.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-0190130886b6a35a795f9cc4eb455235a35aa7d3.png",
+      "size": 144543,
+      "sha1": "0190130886b6a35a795f9cc4eb455235a35aa7d3",
+      "sha256": "886535a19f83f0596aa4c90febe51be2e83af63e3ef2eed8ae26672974b5fc58",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 37,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-ac41dae5eb202a17945fc67041f457fab09c30b1.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-ac41dae5eb202a17945fc67041f457fab09c30b1.png",
+      "size": 144619,
+      "sha1": "ac41dae5eb202a17945fc67041f457fab09c30b1",
+      "sha256": "ea5ef66607f98bc62f81e98d049036a0bd0b2802a6205ba52eef9f13ab6565ca",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 38,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-c5d85035a9ddf9a23c46a4af0f250319413ecd4b.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-c5d85035a9ddf9a23c46a4af0f250319413ecd4b.png",
+      "size": 144494,
+      "sha1": "c5d85035a9ddf9a23c46a4af0f250319413ecd4b",
+      "sha256": "c787898cf774788c9dc75d03377fdf8c4d710e53160f9d765dad279ffe03fe8b",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 39,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-f6c29d78ab0659239df200716db9494062a8c280.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-f6c29d78ab0659239df200716db9494062a8c280.png",
+      "size": 144636,
+      "sha1": "f6c29d78ab0659239df200716db9494062a8c280",
+      "sha256": "8d9a95dc1ca2a72de82843be4762de6f0abd574b31ceb8107a87fc24c890e289",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 40,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-987927521755bee8f6a3cfd10cd6f6c30e69a013.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-987927521755bee8f6a3cfd10cd6f6c30e69a013.png",
+      "size": 144527,
+      "sha1": "987927521755bee8f6a3cfd10cd6f6c30e69a013",
+      "sha256": "2e7e0bdf003ca37ef00c41de85a7b780fa88693591e0d7ea30d135295fe63b64",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 41,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-01b40ed66801b3937bc8f80dbd5db236ea0ace9e.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-01b40ed66801b3937bc8f80dbd5db236ea0ace9e.png",
+      "size": 144572,
+      "sha1": "01b40ed66801b3937bc8f80dbd5db236ea0ace9e",
+      "sha256": "8281ca51e874779cbb239a8fe9f1f4e03b0ebf5051c430999b8bee18a19bb67f",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 42,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-0b7a98373c695624b2353fc81b9f672f57136b2f.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-0b7a98373c695624b2353fc81b9f672f57136b2f.png",
+      "size": 144469,
+      "sha1": "0b7a98373c695624b2353fc81b9f672f57136b2f",
+      "sha256": "16af0041023d19b37195ac700eebb4fc44287407ebc83310fe9703ac90109932",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 43,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-7097025c40bf29cbd6ddbc4693aee6ef4ba8d4d2.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-7097025c40bf29cbd6ddbc4693aee6ef4ba8d4d2.png",
+      "size": 144535,
+      "sha1": "7097025c40bf29cbd6ddbc4693aee6ef4ba8d4d2",
+      "sha256": "cbcd5f8acb78726a4636d04a7667ffa9d6285df0cdfe1e437b33e7aa1138ca44",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 44,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-ad70209125bfb53e87d9fb68fdfb6af93d81fb28.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-ad70209125bfb53e87d9fb68fdfb6af93d81fb28.png",
+      "size": 144579,
+      "sha1": "ad70209125bfb53e87d9fb68fdfb6af93d81fb28",
+      "sha256": "1a3849e863f255c25459da48f79a177a8c3e3470b14d91173f596023ef34cc01",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 45,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-9405933e52f404968b9f1f40062ede64ceef4d16.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-9405933e52f404968b9f1f40062ede64ceef4d16.png",
+      "size": 144588,
+      "sha1": "9405933e52f404968b9f1f40062ede64ceef4d16",
+      "sha256": "38d3a4d7860ade8bde5ac0ba2a32e8238ebf18dd3fd0a027fa4d5e517ffa8b16",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 46,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-b582b8c21d2f3fe4f5b9e2c447dde72f78f248f5.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-b582b8c21d2f3fe4f5b9e2c447dde72f78f248f5.png",
+      "size": 144506,
+      "sha1": "b582b8c21d2f3fe4f5b9e2c447dde72f78f248f5",
+      "sha256": "ec7eaa448c19be3c85608931c7b78acc728a0b1a509a991b2916fef4567738f1",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 47,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-016f4f43abc0a5edda2071f16609ec7475cc0744.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-016f4f43abc0a5edda2071f16609ec7475cc0744.png",
+      "size": 144414,
+      "sha1": "016f4f43abc0a5edda2071f16609ec7475cc0744",
+      "sha256": "0bb3d9aa05aad41b556a47411fd54399e51728c7a94ad7616467de4c36d06abd",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 48,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-d44f270b50a670d9714b8a07b94ba42e5a6a0fb2.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-d44f270b50a670d9714b8a07b94ba42e5a6a0fb2.png",
+      "size": 144549,
+      "sha1": "d44f270b50a670d9714b8a07b94ba42e5a6a0fb2",
+      "sha256": "58e50bdecfcecf3a3165b944d6d4341c7d73b09cce3fe88a151d897d2b9f3eda",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 49,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-0f3895e683794faeaab65b48f44b24b131bb34db.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-0f3895e683794faeaab65b48f44b24b131bb34db.png",
+      "size": 144629,
+      "sha1": "0f3895e683794faeaab65b48f44b24b131bb34db",
+      "sha256": "d14a008089297ad33183cfdba62c7e5b80790dc4104f46ea8df04d056d51e69d",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 50,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-deabb7ed6b635ebc711a27bab9b19e65c9ab2de0.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-deabb7ed6b635ebc711a27bab9b19e65c9ab2de0.png",
+      "size": 144534,
+      "sha1": "deabb7ed6b635ebc711a27bab9b19e65c9ab2de0",
+      "sha256": "4124dd0c4683631770263d1368f579dc103b3fd8569e1da5a820600976054de9",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 51,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-32837cefe4c3e8def97e3f48f9327e0c04b47ecf.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-32837cefe4c3e8def97e3f48f9327e0c04b47ecf.png",
+      "size": 144631,
+      "sha1": "32837cefe4c3e8def97e3f48f9327e0c04b47ecf",
+      "sha256": "3ad2566f6f1b4ccc41e00d823e12ebb1114e97e028d95db494a012a8044b6cad",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 52,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-df7bc3699b0609bf5968e371f57fef542bd2ac5b.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-df7bc3699b0609bf5968e371f57fef542bd2ac5b.png",
+      "size": 144546,
+      "sha1": "df7bc3699b0609bf5968e371f57fef542bd2ac5b",
+      "sha256": "bab37c2c4e4f68331589d4afee98294bdaeec571ddfbe9660f26569ae532df35",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 53,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-38adb8264c74317aa65e1706d164714839ce2645.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-38adb8264c74317aa65e1706d164714839ce2645.png",
+      "size": 144693,
+      "sha1": "38adb8264c74317aa65e1706d164714839ce2645",
+      "sha256": "73376bc7b189eaa4b9b0ba01e8c3855f239f487f1d9dce6d394aed4deb1134dc",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 54,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-5e549902741c4f465524805f3ae6df89739f80a6.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-5e549902741c4f465524805f3ae6df89739f80a6.png",
+      "size": 144672,
+      "sha1": "5e549902741c4f465524805f3ae6df89739f80a6",
+      "sha256": "5559f904ee3f86b68e9c796300b1e7dc6a0eb936756efe254cdb9a370c8d0a82",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 55,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-466f0a9a23200e35a6a3cd631636cb7addc13429.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-466f0a9a23200e35a6a3cd631636cb7addc13429.png",
+      "size": 144642,
+      "sha1": "466f0a9a23200e35a6a3cd631636cb7addc13429",
+      "sha256": "228f37ba95ed2e1f837b1952a7d92faf0cc7738810e5c9177fe3483968ee084f",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 56,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-aee4275c9f12e5c998d59028b65bba310a277bf3.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-aee4275c9f12e5c998d59028b65bba310a277bf3.png",
+      "size": 144507,
+      "sha1": "aee4275c9f12e5c998d59028b65bba310a277bf3",
+      "sha256": "44069e1ea07ed3e324a4362897a4cad219db3b59ee479d7d2b30896415b45b15",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 57,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-e2dca43d508f9bbe1b6cd40062fca84552bed087.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-e2dca43d508f9bbe1b6cd40062fca84552bed087.png",
+      "size": 144650,
+      "sha1": "e2dca43d508f9bbe1b6cd40062fca84552bed087",
+      "sha256": "fc89e0daed22f1f387afccc6037e70bdbe1810ec20a0e8cac450d28b37adc67a",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 58,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-4de7033612959fadee4efa4f2cfb8f0efe5cd0c6.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-4de7033612959fadee4efa4f2cfb8f0efe5cd0c6.png",
+      "size": 144565,
+      "sha1": "4de7033612959fadee4efa4f2cfb8f0efe5cd0c6",
+      "sha256": "b8908ad2e1fdbaefc8ba6d75967e541f868a71cddcf4f2d7591850ab1a33c8e3",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 59,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-dee25967f0adecfda4f22e19ac1f240aa90f8c4e.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-dee25967f0adecfda4f22e19ac1f240aa90f8c4e.png",
+      "size": 144584,
+      "sha1": "dee25967f0adecfda4f22e19ac1f240aa90f8c4e",
+      "sha256": "dab85cfa18f35041277ad3d2174644a7834f5f1bb4add239162f307eb8202b75",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 60,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-312990d614ebcc15ff1e46a912823b761e4d8f2f.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-312990d614ebcc15ff1e46a912823b761e4d8f2f.png",
+      "size": 144624,
+      "sha1": "312990d614ebcc15ff1e46a912823b761e4d8f2f",
+      "sha256": "8888fedd7310210ac97b6fdedf3e66da2bdd64ee3d41a18d662ed5f1aefaa648",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 61,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-ffebdcc04a5dc84248f3f75b4e3ff6eeed157d33.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-ffebdcc04a5dc84248f3f75b4e3ff6eeed157d33.png",
+      "size": 144513,
+      "sha1": "ffebdcc04a5dc84248f3f75b4e3ff6eeed157d33",
+      "sha256": "6bab48977b7fc2cf6facbd61eb32aac12db10a0deffa5bf6b6b73d7391e6676d",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 62,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-983d211e163bb313ea500ec49100628d5ee9411a.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-983d211e163bb313ea500ec49100628d5ee9411a.png",
+      "size": 144554,
+      "sha1": "983d211e163bb313ea500ec49100628d5ee9411a",
+      "sha256": "ad24bc9bfeff625a5d820eb6a37f7ce185865bf7b0179553991a18406e249fa2",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 63,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-6f1eb00fff5aedb21d79ccc0f905a3ef2557a513.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-6f1eb00fff5aedb21d79ccc0f905a3ef2557a513.png",
+      "size": 144577,
+      "sha1": "6f1eb00fff5aedb21d79ccc0f905a3ef2557a513",
+      "sha256": "b9ec455675d0393a8624cbdcc9ec7433ca51f50518691b4146707e4d1764916d",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 64,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-32e1f70e1ead4d8ecec3170afcf8abe33ffe4f3d.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-32e1f70e1ead4d8ecec3170afcf8abe33ffe4f3d.png",
+      "size": 144628,
+      "sha1": "32e1f70e1ead4d8ecec3170afcf8abe33ffe4f3d",
+      "sha256": "478703d777719822d6502147a38a00b603120ee8e8adb2b3b867662d6b4037d5",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 65,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-29acfff19b26a9a1b37d84f50f511f21f4f81860.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-29acfff19b26a9a1b37d84f50f511f21f4f81860.png",
+      "size": 144509,
+      "sha1": "29acfff19b26a9a1b37d84f50f511f21f4f81860",
+      "sha256": "6e2463be57594f6647314ab6771c5de074f9e296150a1140e25925c8c519d2f6",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 66,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-117b6946d8ae1b59606adcf8a8ea792e3f518d30.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-117b6946d8ae1b59606adcf8a8ea792e3f518d30.png",
+      "size": 144532,
+      "sha1": "117b6946d8ae1b59606adcf8a8ea792e3f518d30",
+      "sha256": "318286f9acc83bbe6525df1242b40f0d9ce1c5042def3ef204ecc57b1b85e24f",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 67,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-4fa6528346d4177dbe45c85b060aab0de936b45d.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-4fa6528346d4177dbe45c85b060aab0de936b45d.png",
+      "size": 144542,
+      "sha1": "4fa6528346d4177dbe45c85b060aab0de936b45d",
+      "sha256": "f0c2871813578c298a421da63b9670f9037c05dae55469743a28aa797c35fcc7",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 68,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-47c4c326fdacd5ef279f6cf58ac0e69b61a9e802.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-47c4c326fdacd5ef279f6cf58ac0e69b61a9e802.png",
+      "size": 144587,
+      "sha1": "47c4c326fdacd5ef279f6cf58ac0e69b61a9e802",
+      "sha256": "853dd55be3594163d531085a54a4909e1f84f3ab72e41ee52be1581a3d4a8dee",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 69,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-b1dc8db1ff11024d8f523094678af9eaaa68d0d6.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-b1dc8db1ff11024d8f523094678af9eaaa68d0d6.png",
+      "size": 144531,
+      "sha1": "b1dc8db1ff11024d8f523094678af9eaaa68d0d6",
+      "sha256": "307966063e8056d6c9f0bd0a11707e79dca72a312c2320560df79b0d8e784993",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 70,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-1e5f3014bf486da8c94f0674e62db50270023cb3.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-1e5f3014bf486da8c94f0674e62db50270023cb3.png",
+      "size": 144438,
+      "sha1": "1e5f3014bf486da8c94f0674e62db50270023cb3",
+      "sha256": "8178520b4e835473c5826fda3ac083c55a65e09c5f000b636779d26916161e92",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 71,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-f1d739aad0d0fd612dd746497d9f3c22169169d0.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-f1d739aad0d0fd612dd746497d9f3c22169169d0.png",
+      "size": 144628,
+      "sha1": "f1d739aad0d0fd612dd746497d9f3c22169169d0",
+      "sha256": "58d22a40746c92c1fc509939ea8d603fcf0481a63d40777554d480bce45525ad",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 72,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-3e805577eb15966d5cb99e15de54b23d74fb08e8.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-3e805577eb15966d5cb99e15de54b23d74fb08e8.png",
+      "size": 144554,
+      "sha1": "3e805577eb15966d5cb99e15de54b23d74fb08e8",
+      "sha256": "a7f9cf9e6c4925bc825e52a8213cee583278f0f8730d610e8a9ca6f399b2dc46",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 73,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-5563d55795cf2260fe6ec3afcbb0f77d15573a34.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-5563d55795cf2260fe6ec3afcbb0f77d15573a34.png",
+      "size": 144589,
+      "sha1": "5563d55795cf2260fe6ec3afcbb0f77d15573a34",
+      "sha256": "82ce7504c8aca316e16db17667a1f192f36a9905de8d847ada52dbdc8f6e3ca7",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 74,
+      "name": "_ch-pygments-solarized.css",
+      "file": "media/_ch-pygments-solarized.css",
+      "size": 11610,
+      "sha1": "9d88acf9bfb346229b63d3e16524ad52a8855b21",
+      "sha256": "6266aab633c8b8c863f5eba34263cc1831e595ac9708974946a8fa3c2e4025fa",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 75,
+      "name": "_ch-highlight.js",
+      "file": "media/_ch-highlight.js",
+      "size": 998168,
+      "sha1": "0e4ee671c1fe4b555e9a56217c8deb5d1230162f",
+      "sha256": "3340143387a3994b8c2bd0e39fa921fd463bd0557e2bd8687bc83d113bab4091",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 76,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-1ffa840e4b96f7622c4211e06d1947a7f93bbac1.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-1ffa840e4b96f7622c4211e06d1947a7f93bbac1.png",
+      "size": 144598,
+      "sha1": "1ffa840e4b96f7622c4211e06d1947a7f93bbac1",
+      "sha256": "02788841a9a15d98825978a47b9cd35ba580f142c09f948c54b20052d933b108",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 77,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-30f117a19891b3638a75e02fd3aa93350e5a20b0.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-30f117a19891b3638a75e02fd3aa93350e5a20b0.png",
+      "size": 144696,
+      "sha1": "30f117a19891b3638a75e02fd3aa93350e5a20b0",
+      "sha256": "af19865812d91f5d0a647f7e0bb5d9008d2e0b6bba2558639d4578d2aacee4e0",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 78,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-31877db4beade4d679bd91caef3b80c9ed26235e.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-31877db4beade4d679bd91caef3b80c9ed26235e.png",
+      "size": 144609,
+      "sha1": "31877db4beade4d679bd91caef3b80c9ed26235e",
+      "sha256": "521b441d69cef02068f9a6da801148883e9fa98579fb0622180a97bd1b27fe89",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 79,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-27265447f201b81fc65c5c7a218b459c34871ecb.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-27265447f201b81fc65c5c7a218b459c34871ecb.png",
+      "size": 144548,
+      "sha1": "27265447f201b81fc65c5c7a218b459c34871ecb",
+      "sha256": "0c7f0b316d477dc36535d464dbf5c58c76a2082e41bed929bad41c4374e32187",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 80,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-94761b2d12b6e34484a4dd1f6a83e5792f041053.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-94761b2d12b6e34484a4dd1f6a83e5792f041053.png",
+      "size": 144633,
+      "sha1": "94761b2d12b6e34484a4dd1f6a83e5792f041053",
+      "sha256": "72290379a825d974e0eff3943463ff975386ba2352dfe24f7f59aab6742bc81b",
+      "legacy_zip_filename": 0
+    },
+    {
+      "index": 81,
+      "name": "New_Map_of_Nepal_District_and_Province.svg-1a648b686ec05466d2796b951c5a52ec1939560a.png",
+      "file": "media/New_Map_of_Nepal_District_and_Province.svg-1a648b686ec05466d2796b951c5a52ec1939560a.png",
+      "size": 144485,
+      "sha1": "1a648b686ec05466d2796b951c5a52ec1939560a",
+      "sha256": "acb0178f1415913d369f8a1ace23c433c28799cc7aa0fe964a5d156cdda4b161",
+      "legacy_zip_filename": 0
+    }
+  ]
+}
