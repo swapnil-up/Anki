@@ -1,54 +1,149 @@
-#THE DOCUMENTATION
+# Programming Cloze card
 
-### INTRODUCTION
-This is my simple implementation to figure out how to add programming cards to my anki practise. 
+A Cloze note type for recalling code by typing it. The card gives you a real multiline editor, compares your response with the hidden Cloze answer, and shows a line-by-line diff after you reveal the solution.
 
-The key idea is that since you can train fluency by learning vocab, in a similar vein you can learn almost to muscle memory how to implement basic blocks of code. Initially starting with realizing how to write if statements and reaching the point where you can write and completely internalize the working of a binary search tree. (Not at that level myself, hence the need to create the card.) 
+The editor and comparison logic run locally in Anki. They do not call a network service.
 
-Some other examples of the above would be if how we can touch type without thinking of where the fingers can go. The goal with this would be to think of what implementation to use and our hands would start flying across the keyboard. A metaphor might be thinking of the destination then your feet do the walking as you enjoy the scenery, or deal with immediate problems like potholes, instead of remembering how to move one feet in front of the other and how the arm swing is supposed to go again. To abstract those nitty gritty.
+## What changed
 
-This implementation is simple and uses everything within the vanilla anki. There are more aesthetic UI, and things that have more detail and animations, this implementation is not that. I prefer a utilitarian approach. Have I mentioned that frontend past a certain point is frustrating for me?
+- A multiline code editor replaces Anki's single-line typing box while keeping Anki's native answer capture.
+- `Tab` and `Shift+Tab` indent and outdent code.
+- `Enter` inserts a newline. `Ctrl+Enter`, `Cmd+Enter`, or `Alt+Enter` reveals the answer.
+- Three comparison modes handle whitespace differently.
+- A live verdict shows whether the response matches under the selected mode.
+- An optional whitespace view marks spaces, tabs, and non-breaking spaces.
+- The answer side shows the expected code and your response as aligned line diffs.
+- The layout supports narrow screens and Anki's night mode.
 
-I've gone with the idea of cloze deletions because I use them extensively for other types of cards that I make. It simplifies the need to excessively atomize (yes, you should atomize as further down as you can) as each card will be made for a cloze. And if you prefer a more question and answer format then you can just put the answer in a cloze
+## Install
 
+### 1. Create the note type
 
-### HOW TO DO IT
+1. Open **Tools → Manage Note Types**.
+2. Select **Add**, then clone the built-in **Cloze** note type.
+3. Name the copy, for example `Programming Cloze`.
+4. Rename the cloned type's `Extra` field to `Back Extra`.
+5. Add a `Type Hint` field.
+6. Put the fields in this order:
 
-First install anki duh.
+   | Field | Required | Purpose |
+   | --- | --- | --- |
+   | `Text` | Yes | The code prompt and Cloze deletions |
+   | `Type Hint` | No | A short hint shown above the editor |
+   | `Back Extra` | No | Notes or references shown after the diff |
 
-##### Create the card type
+### 2. Install the editor script
 
-1. Go to Tools
-2. Click on Manage Note Types 
-3. Click on Add (because we want a new card type, instead of modifying the other options.)
-4. Clone the Add:cloze 
-5. Rename to what you want (Mine's cloze for code typing)
-6. Then click on fields and add a field for Type Hint.
-7. Press the reposition on this screen to move it 2.
-8. Hit save
+Copy the media file into your Anki profile's `collection.media` directory:
 
-#### Create the fields in the note type
+```bash
+cp card-types/programming-cloze/media/_programming-cloze.js \
+  "$HOME/.local/share/Anki2/User 1/collection.media/_programming-cloze.js"
+```
 
-For this you can simply copy the front, back and css from the files linked in the github repo. I'll explain what's happening below in case you want to modify it for your own satisfaction.
+Replace `User 1` with your profile directory. The filename must remain `_programming-cloze.js`, including the leading underscore.
 
-1. From the Manage Note Types (done in step 2 above) we now click cards
-2. You'll see there's bubbles for front template, back template, and styling. The styling is where you put the css to make it all look pretty. Go to each and paste the corresponding html or css.
+On systems that store Anki data elsewhere, find the profile directory under `Anki2` and copy the file into its `collection.media` folder.
 
-The key sauce is {{type:cloze:Text}} which requires you to enter the code block that is necessary for the cloze card on the front side. It is what displays the answer and what letters you missed on the back side
+### 3. Install the templates
 
-You could leave the styling as default. I've put in one for the hint to make it a lil less visible. The rest were autogenerated with the card type.
+Open the note type's **Cards** tab. Paste these files into the matching fields:
 
+| Anki field | Repository file |
+| --- | --- |
+| Front template | [`front.html`](front.html) |
+| Back template | [`back.html`](back.html) |
+| Styling | [`styling.css`](styling.css) |
 
-#### Usage
+Save the note type, then reload the browser if Anki already has the card open.
 
-Now all you do is put in a cloze deletion, whatever blocks of code you want at your fingertips. You could leave the card type on whenever you're doing programming related work. It doesn't affect much. Just leave the text box empty when you're actually reviewing the cards.
+## Write a card
 
+Put the Cloze deletion inside the `Text` field. Use `<pre><code>` when the surrounding code needs line breaks:
 
-### Acknowledgements
-I'd like to thank those who came before me, and came up with their own solutions. There's: 
+```html
+<pre><code>if value > 0:
+    {{c1::return "positive"}}
+</code></pre>
+```
 
-1. Liam Gower (https://www.liamgower.com/main-blog/learn-code-with-anki) and his own github repo: (https://github.com/leej11/anki-templates/blob/master/programming/)
+For a multiline answer, put the whole deletion inside the code block:
 
-2. The anki docs which had about the whole answer for me. This implementation is pretty moot if you'd just searched there. But hey, no reinventing the wheel so here you go (https://docs.ankiweb.net/templates/fields.html)
+```html
+<pre><code>{{c1::if value > 0:
+    return "positive"}}</code></pre>
+```
 
-Feel free to share and star and add stuff here. I try to keep on working on github instead of going on HN for the 100th time, so I'll pull requests if they come through.
+Escape the less-than character as `&lt;` when it appears in code. Use `Type Hint` for a nudge, such as the function name or expected return type. Use `Back Extra` for an explanation, test case, or reference.
+
+## Comparison modes
+
+Choose a mode above the editor. Anki remembers the choice between reviews.
+
+| Mode | Ignores | Still checks |
+| --- | --- | --- |
+| **Exact** | Nothing | Every space, tab, and line break |
+| **Ignore indentation** | Leading spaces and tabs on each line | Internal spaces, trailing spaces, line breaks, and code |
+| **Ignore all whitespace** | All spaces, tabs, and line breaks | Code and letter case |
+
+**Ignore indentation** is the default. It accepts a differently indented block without accepting changes such as `return  1` for `return 1`.
+
+The verdict affects the card's feedback only. You still choose Anki's **Again**, **Hard**, **Good**, or **Easy** rating. The answer side also keeps Anki's built-in comparison in a collapsed section for reference.
+
+## Editor shortcuts
+
+| Shortcut | Action |
+| --- | --- |
+| `Enter` | Insert a newline |
+| `Tab` | Insert two spaces, or indent selected lines |
+| `Shift+Tab` | Remove one indentation level |
+| `Ctrl+Enter`, `Cmd+Enter`, `Alt+Enter` | Reveal the answer |
+| **Reveal answer** button | Reveal the answer |
+
+## Files
+
+```text
+card-types/programming-cloze/
+├── front.html
+├── back.html
+├── styling.css
+├── media/
+│   └── _programming-cloze.js
+└── tests/
+    ├── answer-check.test.mjs
+    └── run.sh
+```
+
+Run the comparison and template tests with:
+
+```bash
+card-types/programming-cloze/tests/run.sh
+```
+
+The repository's `make test` target runs the same suite.
+
+## Troubleshooting
+
+### The editor still looks like a normal input box
+
+Anki did not load `_programming-cloze.js`. Confirm that the file sits directly inside `collection.media`, that its name starts with an underscore, and that the front template contains:
+
+```html
+<script src="_programming-cloze.js"></script>
+```
+
+Close and reopen the card after copying the file. Anki's developer tools can show a missing-media request.
+
+### The editor says that only whitespace differs
+
+Turn on **Whitespace: hidden** to **Whitespace: visible** and inspect the marked characters. Check the `Text` field for HTML wrappers, trailing spaces, tabs, or non-breaking spaces that do not appear in the prompt.
+
+### The prompt runs together on one line
+
+Wrap the code context in `<pre><code>`. Plain field text does not preserve visual line breaks.
+
+## Acknowledgements
+
+This card type grew from Liam Gower's [Learn Code with Anki](https://www.liamgower.com/main-blog/learn-code-with-anki) and the template ideas in [leej11/anki-templates](https://github.com/leej11/anki-templates/blob/master/programming/).
+
+Anki's [field and template documentation](https://docs.ankiweb.net/templates/fields.html) explains the native Cloze and type-answer filters used here.

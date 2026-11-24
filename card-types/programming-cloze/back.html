@@ -1,9 +1,74 @@
-{{cloze:Text}}
-<br>
-<br>
-{{type:cloze:Text}}
+<div class="card pc-card pc-answer-card" data-pc-answer>
+  <div class="pc-shell">
+    <header class="pc-topbar">
+      <div class="pc-kicker">
+        <span class="pc-kicker-mark" aria-hidden="true"></span>
+        <span>Programming cloze · Review</span>
+      </div>
+      <div class="pc-tags">{{Tags}}</div>
+    </header>
 
-<br>
-<br>
-<br>
-{{Back Extra}}
+    <main class="pc-main">
+      <section class="pc-prompt-panel" aria-labelledby="pc-resolved-label">
+        <div class="pc-section-label" id="pc-resolved-label">Resolved prompt</div>
+        <div class="pc-prompt" data-pc-prompt>{{cloze:Text}}</div>
+        {{#Type Hint}}
+        <div class="pc-hint">
+          <span class="pc-hint-label">Hint</span>
+          <div>{{Type Hint}}</div>
+        </div>
+        {{/Type Hint}}
+      </section>
+
+      <section class="pc-result" data-pc-result data-tone="neutral" aria-labelledby="pc-result-label">
+        <div class="pc-result-mark" aria-hidden="true"></div>
+        <div class="pc-result-copy">
+          <div class="pc-section-label" id="pc-result-label">Verdict</div>
+          <div class="pc-status" data-pc-status data-tone="neutral" role="status" aria-live="polite">
+            Waiting for an answer
+          </div>
+          <div class="pc-status-detail" data-pc-status-detail>
+            Type the code in the editor.
+          </div>
+        </div>
+        <div class="pc-result-mode">
+          <span>Checked with</span>
+          <strong data-pc-mode-label>Ignore indentation</strong>
+        </div>
+      </section>
+
+      <section class="pc-review" aria-labelledby="pc-diff-label">
+        <div class="pc-review-head">
+          <div>
+            <div class="pc-section-label">Answer diff</div>
+            <h2 id="pc-diff-label">Expected code vs. your response</h2>
+          </div>
+          <span class="pc-review-note">Literal line differences</span>
+        </div>
+        <div class="pc-diff-head" aria-hidden="true">
+          <span>Expected answer</span>
+          <span>Your answer</span>
+        </div>
+        <div class="pc-diff" data-pc-diff></div>
+      </section>
+
+      <details class="pc-native-answer">
+        <summary>Show Anki’s built-in comparison</summary>
+        <div class="pc-native-answer-body">{{type:cloze:Text}}</div>
+        <p>
+          Anki’s built-in check always treats expected line breaks as spaces.
+          Use the comparison mode above when indentation or all whitespace should be ignored.
+        </p>
+      </details>
+
+      {{#Back Extra}}
+      <section class="pc-extra" aria-labelledby="pc-extra-label">
+        <div class="pc-section-label" id="pc-extra-label">Notes</div>
+        <div>{{Back Extra}}</div>
+      </section>
+      {{/Back Extra}}
+    </main>
+  </div>
+
+  <script src="_programming-cloze.js"></script>
+</div>

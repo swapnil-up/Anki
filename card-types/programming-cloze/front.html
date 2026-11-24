@@ -1,6 +1,85 @@
-{{cloze:Text}}
-<br>
-<br>
-<div class=hint>{{Type Hint}}</div>
-<br>
-{{type:cloze:Text}}
+<div class="card pc-card" data-pc-editor>
+  <div class="pc-shell">
+    <header class="pc-topbar">
+      <div class="pc-kicker">
+        <span class="pc-kicker-mark" aria-hidden="true"></span>
+        <span>Programming cloze</span>
+      </div>
+      <div class="pc-tags">{{Tags}}</div>
+    </header>
+
+    <main class="pc-main">
+      <section class="pc-prompt-panel" aria-labelledby="pc-prompt-label">
+        <div class="pc-section-label" id="pc-prompt-label">Prompt</div>
+        <div class="pc-prompt" data-pc-prompt>{{cloze:Text}}</div>
+        {{#Type Hint}}
+        <div class="pc-hint">
+          <span class="pc-hint-label">Hint</span>
+          <div>{{Type Hint}}</div>
+        </div>
+        {{/Type Hint}}
+      </section>
+
+      <section class="pc-workbench" aria-labelledby="pc-editor-label">
+        <div class="pc-workbench-head">
+          <div>
+            <div class="pc-section-label">Response</div>
+            <h1 id="pc-editor-label">Type the missing code</h1>
+          </div>
+
+          <div class="pc-mode-control">
+            <span class="pc-control-label" id="pc-mode-label">Compare</span>
+            <div class="pc-mode-group" role="group" aria-labelledby="pc-mode-label">
+              <button type="button" data-pc-mode="exact" aria-pressed="false">Exact</button>
+              <button type="button" data-pc-mode="indent" aria-pressed="false">Ignore indentation</button>
+              <button type="button" data-pc-mode="loose" aria-pressed="false">Ignore all whitespace</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="pc-editor-frame">
+          <div class="pc-gutter" data-pc-gutter aria-hidden="true">1</div>
+          <div class="pc-code-stage">
+            <pre class="pc-overlay" data-pc-overlay aria-hidden="true"></pre>
+            {{type:cloze:Text}}
+          </div>
+        </div>
+
+        <div class="pc-workbench-foot">
+          <div class="pc-feedback">
+            <div class="pc-status" data-pc-status data-tone="neutral" role="status" aria-live="polite">
+              Waiting for an answer
+            </div>
+            <div class="pc-status-detail" data-pc-status-detail>
+              Type the code in the editor.
+            </div>
+          </div>
+
+          <div class="pc-actions">
+            <span class="pc-metrics" data-pc-metrics>1 line</span>
+            <button
+              type="button"
+              class="pc-button pc-button-quiet"
+              data-pc-whitespace-toggle
+              aria-pressed="false"
+            >
+              Whitespace: hidden
+            </button>
+            <button type="button" class="pc-button pc-button-primary" data-pc-reveal>
+              Reveal answer
+              <kbd>Ctrl ↵</kbd>
+            </button>
+          </div>
+        </div>
+
+        <div class="pc-shortcuts" aria-label="Editor keyboard shortcuts">
+          <span><kbd>Tab</kbd> indent</span>
+          <span><kbd>Shift</kbd> + <kbd>Tab</kbd> outdent</span>
+          <span><kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>Enter</kbd> reveal</span>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="_programming-cloze.js"></script>
+</div>

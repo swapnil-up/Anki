@@ -6,7 +6,7 @@ This repository collects Anki card templates, import tools, and two ready-to-imp
 
 | Component | Purpose |
 | --- | --- |
-| [`card-types/programming-cloze/`](card-types/programming-cloze/) | Cloze templates for typing programming code from memory |
+| [`card-types/programming-cloze/`](card-types/programming-cloze/) | Multiline code-typing Cloze templates with whitespace-aware comparison |
 | [`tools/clipboard-to-anki/`](tools/clipboard-to-anki/) | Capture selected text and open it in Anki through AnkiConnect |
 | [`tools/kindle-highlights/`](tools/kindle-highlights/) | Convert Kindle `MyClippings.txt` files into pipe-delimited `.tsv` files |
 | [`decks/random-math/`](decks/random-math/) | Dynamic square-practice cards and their source |
@@ -30,7 +30,7 @@ The tools target Linux with X11. The repository is tested on Ubuntu 22.04 and 24
 | Anki and AnkiConnect | Clipboard tool | AnkiConnect must expose its local API |
 | Python 3.12 | Deck tooling | The builder uses the standard library |
 | `uv` | Deck tooling | Creates the pinned development environment |
-| Node.js 24 | Deck tests | Runs the Random Math JavaScript tests |
+| Node.js 24 | JavaScript tests | Runs the Random Math and Programming Cloze tests |
 | `zstd` | Source verification | Reads media in modern Anki packages |
 
 The clipboard tool expects AnkiConnect at `http://127.0.0.1:8765` unless you configure another URL.

@@ -50,6 +50,7 @@ test:
 	if [[ -x tools/clipboard-to-anki/tests/run.sh ]]; then tools/clipboard-to-anki/tests/run.sh; fi; \
 	if [[ -x tools/kindle-highlights/tests/run.sh ]]; then tools/kindle-highlights/tests/run.sh; fi; \
 	if [[ -x decks/random-math/tests/run.sh ]]; then decks/random-math/tests/run.sh; fi; \
+	if [[ -x card-types/programming-cloze/tests/run.sh ]]; then card-types/programming-cloze/tests/run.sh; fi; \
 	if compgen -G 'tools/apkg-builder/tests/test_*.py' >/dev/null; then \
 		$(PYTHON) -m unittest discover -s tools/apkg-builder/tests -p 'test_*.py'; \
 	fi
